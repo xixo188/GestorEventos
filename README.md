@@ -1,5 +1,6 @@
 # GestorEventos
 
+https://docs.google.com/document/d/1WxsxfUaZXEtCfLukvv_9qkKy502ILAbN0bW3NmDSVHg/edit?usp=sharing
 
 # Requisitos Funcionais (RF)
 
