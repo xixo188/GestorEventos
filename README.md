@@ -3,7 +3,7 @@
 
 # Requisitos Funcionais (RF)
 
-RF01 - criar eventos definindo:
+RF01 - consultar eventos:
 -nome
 -data
 -local
@@ -12,5 +12,7 @@ RF01 - criar eventos definindo:
 
 RF02 - Inscrição em eventos
 	-Comprovante da inscrição no evento
+
+
 
 # Requisitos não Funcionais (RFN)
