@@ -15,6 +15,10 @@ Modelo de Dominio
 <img width="775" height="426" alt="image" src="https://github.com/user-attachments/assets/8b6d9915-841e-4d6e-9491-5d4ab7d10b51" />
 
 
-O administrador seleciona o botão "Criar Evento" na página da "Lista de eventos" e o sistema mostra o ecrã "Novo evento".
-O administrador preenche todos os campos demonstrados na página e clica no botão "Confirmar".
-O sistema certifica-se que todos os campos foram preenchidos com dados aceites
+1. O administrador seleciona o botão "Criar Evento" na página da "Lista de eventos" . 
+2. O sistema mostra o ecrã "Novo evento". 
+3. O administrador preenche todos os campos obrigatorios 
+4. O administrador seleciona a imagem do evento
+5. O administrador clica no botão "Confirmar". 
+6. O sistema certifica-se que todos os campos foram preenchidos com dados aceites 
+7. O sistema valida a confirmação 
