@@ -11,6 +11,9 @@
 Caso de Uso
 <img width="409" height="526" alt="image" src="https://github.com/user-attachments/assets/5b093eb6-2d2f-4297-be5b-f73f740e4aae" />
 
+Texto dos Casos de Uso
+https://docs.google.com/document/d/1i__ip4nokgQTm9EAY2ubU4FkKBz2nLJdbvVVSzQJT7E/edit?usp=sharing
+
 Modelo de Dominio
 <img width="775" height="426" alt="image" src="https://github.com/user-attachments/assets/8b6d9915-841e-4d6e-9491-5d4ab7d10b51" />
 
